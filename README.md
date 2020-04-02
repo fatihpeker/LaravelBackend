@@ -2,6 +2,7 @@
 Kartaca Görev 2
 Backend Yapıldı (Laravel servisler)
 Frontend Yapılamadı (Vue js ile backend arası post request isteklerinde yaşadığım sorunları çözemediğimden frontend geliştirme kismini yapamadım, views kisimlarını oluşturamadım.)
+
 Laravel ile backend kisminda servisler yazıldı.
 Bu servisler ProductController , AdminController , CustomerController olarak 3 Controller içinde yazıldı.
 ProductController:
